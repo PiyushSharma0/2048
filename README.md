@@ -7,7 +7,7 @@ This is a simple implementation of the popular 2048 game using Python and Pygame
 1. Clone the repository:
 
     ```shell
-    git clone https://github.com/your-username/2048-game.git
+    git clone https://github.com/PiyushSharma0/2048-game.git
     ```
 
 2. Install the required dependencies:
